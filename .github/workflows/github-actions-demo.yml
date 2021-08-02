@@ -21,3 +21,4 @@ jobs:
           file: test.json
           field: last_name 
           value: Na
+      - run: cat test.json
